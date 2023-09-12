@@ -4,8 +4,8 @@
 int main(int argc, char *argv[]) {
     int sum = 0;
     for (int i = 0; i < argc; i++) {
-        sum += atoi(argv[i]);
+        sum = sum * atoi(argv[i]);
     }
-    printf("sum of command-line arguments = %d\n", sum);
+    printf("multiplication of command-line arguments = %d\n", sum);
     return 0;
 }
