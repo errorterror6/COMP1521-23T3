@@ -6,11 +6,16 @@ main:
 	addi 	$s1, $s0, 1
 	mul	$s2, $s1, 4
 
+	li	$t0, 1521
+	move	$s3, $t0
+
 	jal function
 	jal function2
 	jal function3
 	jal function4
 
+
+	move	$t0, $s3
 	#code is much neater as I can be confident that function, function2, function3, and function4 all restore my S values!!
 
 
