@@ -10,3 +10,5 @@ week 3 slides: https://www.canva.com/design/DAFvgBQ7uTw/TyXDs75RVFjxqP9SCvKndw/e
 week 4 slides: https://www.canva.com/design/DAFwKeaf6Qs/oS2rKxOCqAjwKNhulJ9n5Q/edit?utm_content=DAFwKeaf6Qs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 week 5 slides: https://www.canva.com/design/DAFwx1iTmY8/9nLAn6awArWgdEaPbTUFkQ/edit?utm_content=DAFwx1iTmY8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+week 7 slides: https://www.canva.com/design/DAFyEmeYcRY/Bgp6R9IVgmZxSmYyA1MAtA/edit?utm_content=DAFyEmeYcRY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
